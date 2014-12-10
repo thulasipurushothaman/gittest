@@ -8,5 +8,9 @@ namespace TestClassLibrary
 {
     class TestClass
     {
+        public int AddTwoNumber(int num1, int num2)
+        {
+            return num1 + num2;
+        }
     }
 }
